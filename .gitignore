@@ -1,0 +1,12 @@
+/target/
+
+# Rust tooling
+**/*.rs.bk
+
+# Editor and OS noise
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
